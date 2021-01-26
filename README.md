@@ -1,7 +1,7 @@
 # Anil_sh AntiDDoS Layer 7 Ultra Protection
 (Use Only Root) Install,
 ```
-wget https://github.com/ertugrulturan/Kernel-DOS-Self-Protection/raw/main/install
+wget https://github.com/Anil-sh/Layer7/raw/main/install
 ```
 ```
 chmod +x install & bash install
