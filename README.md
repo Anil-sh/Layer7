@@ -8,7 +8,7 @@ chmod +x install & bash install
 ```
 # [BASH] Auto IPTABLES &amp; Anil_sh AntiDDoS Layer 7 Ultra Protection Rules
 
-ONLY NGİNX CONFİG (conf = https://obir.ninja/guvenlik/12/nginx-layer7-saldirilarini-engelle/),
+ONLY NGİNX CONFİG
 ![Firewall](https://cdn.discordapp.com/attachments/786218108775956492/803693313026555904/Screenshot_11.png)
 
 NGİNX CONFİG + Anil_sh AntiDDoS Layer 7 Ultra Protection,
